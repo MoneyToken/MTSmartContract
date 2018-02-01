@@ -1,5 +1,6 @@
 
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](pre-alpha@0.0.1)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 # MoneyToken Loan Smart Contract
 MoneyToken implementation of Loan Smart Contract
