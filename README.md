@@ -1,5 +1,5 @@
 
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](0.0.1)
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](pre-alpha@0.0.1)
 
 # MoneyToken Loan Smart Contract
 MoneyToken implementation of Loan Smart Contract
