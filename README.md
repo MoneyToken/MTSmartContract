@@ -1,5 +1,5 @@
 
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](pre-alpha@0.0.1)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://moneytoken.com/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 # MoneyToken Loan Smart Contract
 MoneyToken implementation of Loan Smart Contract
